@@ -1,9 +1,11 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+ <div>Your to do list here</div>
+ <input/>
+ <button>Add</button>
   </main>
 </template>
