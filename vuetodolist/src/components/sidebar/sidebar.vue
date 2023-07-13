@@ -57,7 +57,7 @@ export default {
   bottom: 0;
   padding: 0.5em;
 
-  transition: 0.3s ease;
+  transition: 0.5s ease;
 
   display: flex;
   flex-direction: column;
